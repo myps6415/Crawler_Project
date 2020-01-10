@@ -15,3 +15,6 @@
 7. 課程6作業講解及考試
 8. 臺北公園走透透及 Selenium 爬取蝦皮
 9. 蝦皮購物爬蟲
+10. API 爬蟲設計
+
+[課程講義線上版](https://hackmd.io/@-Y5Vqn9cQEeTbtDDUCsQLw/HJfKtzSP7/%2Fw5xgGY-7SGugOQV2q-P3DA)
